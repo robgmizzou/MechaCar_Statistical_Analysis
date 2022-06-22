@@ -1,13 +1,11 @@
-# MechaCar_Statistical_Analysis
-Statistical Analysis with R
+# MechaCar Prototyping
+
 
 ## Linear Regression to Predict MPG
-
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?<br>
-Is the slope of the linear model considered to be zero?
-Why or why not?<br>
-Does this linear model predict mpg of MechaCar prototypes effectively? 
-Why or why not?<br>
+Using multiple vehicle metrics, we have attempted to isolate factors most impactful to the performance of the MechaCar prototypes.<br>
+Vehicle length and ground clearance had statistically significant impacts on Miles per Gallon (MPG) performance.<br>
+The p-value for this model is 5.35e-11, meaning the null must be rejected and the test is statistically significant.  The relationship between our variables and MPG is not random chance.<br>
+Despite the small number of variables considered, this model did a reasonable job predicting MPG of MechaCar prototypes.  The R-Squared value of 71% indicate high relative prediction accuracy.<br>
 
 ## Summary Statistics on Suspension Coils
 
