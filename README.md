@@ -13,7 +13,7 @@ Summary with screenshots of total_summary and lot_summary dataframes<br>
 
 ![image](https://user-images.githubusercontent.com/100323377/176027808-c3434f28-b3b6-4cbb-9d2f-6cbd779709d2.png)<br>
 
-Address the prompt "The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?"<br>
+IN total, the total populations of suspension coils meet the tolerance requirement for variance.  The total population variance was within the 100 PSI limit, with the total population variance being 62.3 PSI.  <br>
 
 ## T-test on Suspension Coils
 
