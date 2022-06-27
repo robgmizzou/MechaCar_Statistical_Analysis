@@ -10,8 +10,15 @@ Despite the small number of variables considered, this model did a reasonable jo
 ## Summary Statistics on Suspension Coils
 
 Summary with screenshots of total_summary and lot_summary dataframes<br>
+
+![image](https://user-images.githubusercontent.com/100323377/176027808-c3434f28-b3b6-4cbb-9d2f-6cbd779709d2.png)<br>
+
 Address the prompt "The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?"<br>
+
 ## T-test on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/100323377/176027709-887903f4-6932-4af6-aaa3-e8c13825227d.png)<br>
+
 By breaking the suspension coil data up by lot, a t-test indicated that the sample mean for lot 3 coils were stattically different from the population mean overall.  The small p-value tells us to reject that null hypothesis on lot 3 coils, which assumed that the coils shared the meain with the total coil population.  Lot 1 and 2 coils did meet the criteria to accept the null on those samples.
 
 ## Study Design: Mecha Car vs Competition
